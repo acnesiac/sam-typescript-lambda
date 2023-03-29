@@ -1,19 +1,11 @@
 
-Simple instructions to  run 
+#Simple instructions to run as a Alten demo 
 
-cd hello-world
-npm install
-npm run test
-
-sam build
-sam deploy --guided
-
-
-
-
-
-
-
+- cd hello-world
+- npm install
+- npm run test
+- sam build
+- sam deploy --guided
 
 # sam-typescript-lambda
 
